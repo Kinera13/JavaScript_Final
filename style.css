@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 100px;
+}
+
+.field {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #caa0d7;
+}
+
+.exel {
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+}
+
+.snakeBody{
+	background-color: #36992d;
+	background-size: cover;
+	border-radius: 10%;
+}
+
+.head{
+	background-color: #add7a0;
+	background-size: cover;
+	border-radius: 10%;
+}
+
+.mouse{
+	background-color: #545853;
+	background-size: cover;
+}
